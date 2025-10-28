@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@700&family=M+PLUS+1:wght@700&family=Oxygen:wght@300;400&family=Ubuntu&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+#main-head{
+    color:rgb(250, 250, 250);
+}
+#main-css{
+    margin-top: 5rem;
+}
+h1 {
+    /* color: #2899f5;
+    font-family: 'Montserrat',sans-serif;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 50px;
+    padding-left: 10px;
+    border-left: medium outset #2899f5;
+    border-radius: 4px; */
+    font-size: 1rem;
+    margin: 1.875rem 0rem;
+    padding: 0 0.625rem;
+    
+    border-left: medium outset #efff15;
+    border-radius: 4px;
+    color: #efff15;
+    font-size: 43px;
+    background-color: rgb(190, 189, 189);
+}
+h4.hellog {
+    color: whitesmoke;
+    font-size: 30px;
+
+}
+
+.divhead{
+    font-size: 1rem;
+    margin: 1.875rem 0rem;
+    padding: 0 0.625rem;
+  
+    border-left: medium outset #efff15;
+    border-radius: 4px;
+    color: #ebf82c;
+    font-size: 43px;
+    background-color: rgb(190, 189, 189);
+    
+  }
+
+h2 {
+    padding-left: 20px;
+    color: #efff15;
+    background-color: black;
+    width: fit-content;
+}
+h3 {
+    color: #efff15;
+    font-family: 'Montserrat',sans-serif;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 30px;
+    padding-left: 20px;
+    border-left: medium outset #efff15;
+    border-radius: 4px;
+}
+pre.Example1 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.801);
+    color:white;
+    padding-top: 10px;
+    
+}
+pre.Example2 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.801);
+    color:white;
+    padding-top: 10px;
+}
+pre.Example3 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example4 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example5 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example6 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example7 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example8 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    padding-top: 10px;
+}
+pre.Example9 {
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+pre.Example10{
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    color:white;
+    background-color: black;
+    padding-top: 10px;
+}
+pre {
+    font-size: large;
+}
+p {
+    padding-left: 20px;
+    font-size: 25px;
+}
+#main-nav-bar{
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #main-nav-bar-child1{
+    width: 30%;
+    
+  }
+  
+  #main-nav-bar-child2{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .nav-bar-link{
+    color: rgb(109, 109, 114);
+    text-decoration: none;
+  }
+  
+  .nav-bar-link:hover{
+    color: #efff15;
+    background-color: rgba(0, 0, 0, 0.24);
+  }
+div.Intro1 {
+    padding-left: 20px;
+
+}
